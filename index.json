@@ -1,0 +1,14 @@
+[
+  {
+    "name": "My Custom SFX Pack",
+    "description": "A collection of sci-fi sounds.",
+    "type": "bgm",
+    "files": [
+      {
+        "url": "raw.githubusercontent.com",
+        "name": "E11SRFire.mp3",
+        "size": 1024
+      }
+    ]
+  }
+]
