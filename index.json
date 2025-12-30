@@ -1,14 +1,7 @@
 [
   {
-    "name": "My Custom SFX Pack",
-    "description": "A collection of sci-fi sounds.",
     "type": "bgm",
-    "files": [
-      {
-        "url": "https://raw.githubusercontent.com/green6gang-bot/reimagined-octo-invention/main/E11SRFire.mp3",
-        "name": "E11SRFire.mp3",
-        "size": 1024
-      }
-    ]
+    "id": "E11SRFire.mp3",
+    "url": "https://raw.githubusercontent.com/green6gang-bot/reimagined-octo-invention/main/E11SRFire.mp3"
   }
 ]
