@@ -1,11 +1,11 @@
 [
   {
-    "type": "bgm",
+    "type": "sfx1",
     "id": "E11SRFire.mp3",
     "url": "https://raw.githubusercontent.com/green6gang-bot/reimagined-octo-invention/main/E11SRFire.mp3"
   },
   {
-    "type": "bgm",
+    "type": "sfx2",
     "id": "Call_6b.ogg",
     "url": "https://raw.githubusercontent.com/green6gang-bot/reimagined-octo-invention/main/Call_6b.ogg"
   }
